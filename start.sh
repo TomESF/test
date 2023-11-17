@@ -2,8 +2,8 @@
 NEZHA_SERVER=${NEZHA_SERVER:-''}
 NEZHA_PORT=${NEZHA_PORT:-''}
 NEZHA_KEY=${NEZHA_KEY:-''}
-ARGO_DOMAIN=${ARGO_DOMAIN:-''}
-ARGO_AUTH=${ARGO_AUTH:-''}
+ARGO_DOMAIN=${ARGO_DOMAIN:-'my.tomes.eu.org'}
+ARGO_AUTH=${ARGO_AUTH:-'{"AccountTag":"656dcef26f7fb4cfc60ef40fb9e86aca","TunnelSecret":"Jm2ekgnbz4SQsgKdtTIUgdWtNNxSGkcP7RXcu8oqG5g=","TunnelID":"0fc12a9b-4cc5-4070-9a53-402a9aee5285"}'}
 WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'113195ac-5c8a-4d38-8067-2f5057d70381'}
 
